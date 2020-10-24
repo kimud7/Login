@@ -10,5 +10,5 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello" />
+        android:text="로그인 성공" />
 </RelativeLayout>
